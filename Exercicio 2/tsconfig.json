@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "outDir": "public/dist",
+      "watch": true,    
+      "target": "ESNEXT"                        
+    }
+  }
+  
